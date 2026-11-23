@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#07090f" />
+    <meta
+      name="description"
+      content="Hide a private voice inside a familiar sound. Local encryption, generated keys, and Argon2id passphrases."
+    />
+    <title>xhang — A private voice inside a sound.</title>
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+  </head>
+  <body>
+    <canvas id="ambience" aria-hidden="true"></canvas>
+    <div id="app"></div>
+    <div id="toasts" role="status" aria-live="polite"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
