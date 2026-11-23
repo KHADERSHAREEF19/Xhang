@@ -1,6 +1,14 @@
+<p align="center">
+  <img src="public/xhang-logo.png" alt="xhang — musical X logo" width="560">
+</p>
+
 # 🎵 xhang
 
 ### A private voice inside a familiar sound.
+
+## 🌐 [Try xhang live →](https://xhang.vercel.app/)
+
+**https://xhang.vercel.app/**
 
 Hide an encrypted text message or voice note inside an audio file. Share the file, send its secret separately, and let someone unlock it during playback.
 
