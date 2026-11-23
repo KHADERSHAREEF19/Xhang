@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/xhang-logo.png" alt="xhang — musical X logo" width="560">
+  <img src="public/xhang-logo.png" alt="xhang — musical X logo" width="360">
 </p>
 
 # 🎵 xhang
